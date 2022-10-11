@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+hgroup{
+    position: center;
+}
+
+div.menu{
+    text-align: justify;
+    text-indent: 50px;
+}
